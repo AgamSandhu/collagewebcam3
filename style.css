@@ -1,0 +1,43 @@
+body{
+    background:whitesmoke
+}
+
+h1{
+    font-family:cursive;
+    font-style:italic; 
+    font-weight:bold; 
+}
+
+h4{
+    color:black;
+}
+
+#camara{
+    width:500px;
+    height:400px;
+    border:1px solid black; 
+}
+
+
+.coloum{
+    display:inline; 
+    padding:10px; 
+    width:37%; 
+    border-radius:4px; 
+    padding:10px;
+    box-shadow:0 6px 8px 0 grey;
+}
+
+img:hover{
+    border-radius:140px; 
+}
+
+.copy_right_footer{
+    position:fixed; 
+    color:black;
+    bottom:0; 
+    width:100%; 
+    background-color:beige; 
+    line-height:3; 
+    text-align:center; 
+}
